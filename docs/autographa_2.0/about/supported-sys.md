@@ -1,7 +1,8 @@
-﻿---
+---
 id: p0-4-supported-sys.md
 sidebar_label: Supported Systems
 title: Supported Systems
+
 ---
 
 **_Autographa Live_** is supported on the following operating systems:
