@@ -1,3 +1,4 @@
+## Document Conventions
 _Table 0.4.1_ lists down and explains the document conventions followed in this document.
 
 | Icon/Text                                                                       | Meaning                          | Description                                                                                                                                                                                                                                    |
